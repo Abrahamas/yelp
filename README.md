@@ -21,7 +21,8 @@ The following **stretch** features are implemented:
 The following **additional** features are implemented:
 
 - [X] List anything else that you can get done to improve the app functionality!
-You can see the keyboard when you tap in the search bar and hide when you tap outside the search bar
+
+[X]You can see the keyboard when you tap in the search bar and hide when you tap outside the search bar
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -33,7 +34,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/kf80o3n.gif' title='Portrait' width='' alt='Video Walkthrough' />
-<i g src='https://imgur.com/vFLgdqf.gif title='Landsacpe'>
+<img src='https://imgur.com/vFLgdqf.gif title='Landsacpe'>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
